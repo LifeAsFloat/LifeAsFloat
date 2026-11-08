@@ -7,7 +7,7 @@
 # 你好呀，我是 LifeAsFloat 🌙
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B59CC0&center=true&vCenter=true&width=435&lines=欢迎来到我的小角落~;在高处，看远方+🕊️;时而沉没，始终闪耀+🌙" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&pause=1000&color=B59CC0&center=true&vCenter=true&width=435&lines=%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%E5%B0%8F%E8%A7%92%E8%90%BD~%3B%E5%9C%A8%E9%AB%98%E5%A4%84%EF%BC%8C%E7%9C%8B%E8%BF%9C%E6%96%B9%20%F0%9F%95%8A%EF%B8%8F%3B%E6%97%B6%E8%80%8C%E6%B2%89%E6%B2%A1%EF%BC%8C%E5%A7%8B%E7%BB%88%E9%97%AA%E8%80%80%20%F0%9F%8C%99" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -58,7 +58,7 @@ const LifeAsFloat = {
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LifeAsFloat&background=2C3138&stroke=2C3138&ring=B59CC0&fire=B59CC0&currStreakLabel=D9B8C8&sideLabels=8A93A6&currStreakNum=C7CFD9&sideNums=C7CFD9&dates=8A93A6&hide_border=true" alt="Streak stats" />
+<img src="https://streak-stats.demolab.com/?user=LifeAsFloat&background=2C3138&stroke=2C3138&ring=B59CC0&fire=B59CC0&currStreakLabel=D9B8C8&sideLabels=8A93A6&currStreakNum=C7CFD9&sideNums=C7CFD9&dates=8A93A6&hide_border=true" alt="Streak stats" />
 
 <br/>
 
