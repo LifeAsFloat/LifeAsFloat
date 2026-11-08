@@ -7,7 +7,7 @@
 # Hi there, I'm LifeAsFloat 🌙
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B59CC0&center=true&vCenter=true&width=435&lines=Welcome+to+my+little+corner+~;From+up+here,+watching+the+faraway+🕊️;Sinking+sometimes,+sparkling+always+🌙" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&pause=1000&color=B59CC0&center=true&vCenter=true&width=435&lines=Welcome+to+my+little+corner+~%3BFrom+up+here,+watching+the+faraway+%F0%9F%95%8A%EF%B8%8F%3BSinking+sometimes,+sparkling+always+%F0%9F%8C%99" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -58,7 +58,7 @@ const LifeAsFloat = {
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LifeAsFloat&background=2C3138&stroke=2C3138&ring=B59CC0&fire=B59CC0&currStreakLabel=D9B8C8&sideLabels=8A93A6&currStreakNum=C7CFD9&sideNums=C7CFD9&dates=8A93A6&hide_border=true" alt="Streak stats" />
+<img src="https://streak-stats.demolab.com/?user=LifeAsFloat&background=2C3138&stroke=2C3138&ring=B59CC0&fire=B59CC0&currStreakLabel=D9B8C8&sideLabels=8A93A6&currStreakNum=C7CFD9&sideNums=C7CFD9&dates=8A93A6&hide_border=true" alt="Streak stats" />
 
 <br/>
 
