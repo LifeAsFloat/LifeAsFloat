@@ -17,7 +17,7 @@
 <br/>
 
 <a href="https://github.com/LifeAsFloat?tab=followers">
-  <img src="https://komarev.com/ghpvc/?username=LifeAsFloat&color=b59cc0&style=flat-square&label=主页浏览量" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=LifeAsFloat&color=b59cc0&style=flat-square&label=%20%20%20%20%20%20%E4%B8%BB%E9%A1%B5%E6%B5%8F%E8%A7%88%E9%87%8F%20%20%20%20%20%20" alt="Profile views" />
 </a>
 <img src="https://img.shields.io/badge/-LifeAsFloat-4B5B73?style=flat-square&logo=github&logoColor=C7CFD9" alt="badge" />
 
@@ -52,8 +52,8 @@ const LifeAsFloat = {
 ### 📊 我的 GitHub 小花园
 
 <a href="https://github.com/LifeAsFloat">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LifeAsFloat&show_icons=true&bg_color=2C3138&title_color=B59CC0&icon_color=D9B8C8&text_color=C7CFD9&ring_color=B59CC0&hide_border=true&include_all_commits=true&count_private=true" alt="LifeAsFloat's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LifeAsFloat&layout=compact&bg_color=2C3138&title_color=B59CC0&text_color=C7CFD9&hide_border=true" alt="Top languages" />
+  <img height="180em" src="https://cdn.jsdelivr.net/gh/LifeAsFloat/LifeAsFloat@main/profile/stats.svg" alt="LifeAsFloat's GitHub stats" />
+  <img height="180em" src="https://cdn.jsdelivr.net/gh/LifeAsFloat/LifeAsFloat@main/profile/top-langs.svg" alt="Top languages" />
 </a>
 
 <br/>
@@ -64,7 +64,7 @@ const LifeAsFloat = {
 
 ### 🐍 小蛇来我的贡献图散步啦
 
-![Snake animation](https://raw.githubusercontent.com/LifeAsFloat/LifeAsFloat/output/github-contribution-grid-snake.svg)
+![Snake animation](https://cdn.jsdelivr.net/gh/LifeAsFloat/LifeAsFloat@output/github-contribution-grid-snake.svg)
 
 <br/>
 
